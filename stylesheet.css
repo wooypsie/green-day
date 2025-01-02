@@ -57,14 +57,14 @@ body {
   justify-self: center;
 }
 
-header {
+.header {
   width: 50%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 24px;
 }
-header h1 {
+.header h1 {
   background-color: #cde6be;
   padding: 10px 20px;
   border-radius: 4px;
